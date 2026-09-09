@@ -240,4 +240,4 @@ This repository serves as the official landing page for LingoWare. The software 
 **Get the most recent version of LingoWare today!**
 
 ---
-**Last updated:** 2026-09-09 06:47:49 UTC
+**Last updated:** 2026-09-09 11:59:49 UTC
